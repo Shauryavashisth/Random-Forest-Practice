@@ -1,0 +1,11 @@
+Rank:- Rank of Every Game
+Name:- Name of the Game
+Platform:- On which Platform it is available
+Year:- Which Year it was Released
+Genre:- Which Category it is Available
+Publisher:- The Device on Which it Was Available
+NA_Sales:- Total of North America Sales
+EU_Sales:- Total of Europe Sales
+JP_Sales:- Total of Japan Sales
+Other_Sales:- Other than above Sales
+Global_Sales:- Total Sales of that game
